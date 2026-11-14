@@ -1,0 +1,200 @@
+The shell on the beach was smaller than the one for sale in the shop.
+She sells fresh shellfish at the stall beside the ferry terminal.
+Each cell in the sheet shows the total sales for that week.
+The prison cell was sealed shut after the guards finished their shift.
+Scientists study how skin cells repair themselves after a deep cut.
+He sells phone cases and chargers from a small shop near the station.
+The sale ends on Sunday, so we should shop for shoes today.
+A snail carries its shell slowly across the wet garden path.
+Please save the file before you share the screen with the team.
+The ship set sail at seven, just as the sun began to shine.
+She showed me the same seat she had chosen for the last show.
+The chef sliced the shallots and seared the salmon in a shallow pan.
+I bought a dozen bagels and a bag of apples at the grocery store.
+The grocery store on the corner closes early on public holidays.
+He toasted a sesame bagel and spread butter on both halves.
+A bugle sounded across the camp just before the morning meal.
+The baker sells warm bagels from six until they run out.
+We stopped at the grocery store for rice, eggs and a loaf of bread.
+Christian sent the invitation to Kristen and her brother last night.
+Kristen asked Christian whether the meeting could move to Thursday.
+Germany and France signed the agreement after two days of talks.
+My cousin moved from Germany to Canada when she was nineteen.
+The money was sent to the wrong account by mistake.
+A delegation from Japan visited the factory in northern Germany.
+Pakistan and India played the final match in front of a huge crowd.
+The team from Pakistan arrived a day before the tournament began.
+Can I get a glass of water and a slice of lemon, please?
+Can you check whether the oven is still switched on?
+Then I walked home and called my sister about the news.
+Can we meet at the cafe before the lecture starts?
+Then the lights went out and everyone reached for a phone.
+Can they finish the painting before the guests arrive on Friday?
+My voice sounds different when I listen to a recording of it.
+The world's largest desert is colder than most people expect.
+Her voice carried across the hall without any microphone at all.
+He raised his voice so the people at the back could hear.
+The voice message was too quiet, so I asked her to record it again.
+Voices from the next room made it hard to concentrate on the words.
+The funds were transferred on Monday and the fund manager confirmed it.
+Both funds lost value last year, but one fund recovered quickly.
+The floods are affecting farms that were never affected before.
+The delay affected hundreds of passengers and is still affecting flights.
+She is collecting the tickets that he collected from the office yesterday.
+The roads were blocked, and the storm is blocking the railway too.
+He packs the boxes while she checks the labels on each pack.
+The students asked good questions, and one student asked three.
+Several reports mention the problem, but only one report explains it.
+The costs keep rising even though the cost of fuel has fallen.
+I saw a fox cross the road just after the bus had passed.
+I saw the fox again the next evening near the same gate.
+She bought a ticket for the early train to the coast.
+He left the keys on a shelf beside the front door.
+We waited at platform nine for almost half an hour.
+They met after work and walked along the river until dark.
+A doctor examined the patient before the nurse arrived.
+The doctor signed a form and handed the patient a prescription.
+After new rules came in, the company changed the way it hires staff.
+After the new manager arrived, morale improved within a month.
+The cherry blossoms opened a week earlier than usual this spring.
+Apple blossom covered the orchard like a layer of fresh snow.
+A blossom fell from the branch and landed in her cup of tea.
+The military base uses high-grade steel for every gate and fence.
+He bought a professional-grade camera for his wildlife photographs.
+This is a well-known problem with a fairly simple solution.
+The old oak tree lost a heavy branch during the winter storm.
+An old oak door leads from the kitchen into the walled garden.
+Here's the address you asked for, and here is a map as well.
+Here's a quick summary of what we agreed at the last meeting.
+It's raining now, but it's expected to clear by the afternoon.
+She's finished the draft, and he's checking the figures tonight.
+I'd like a milkshake with less sugar and plenty of ice.
+Shake the bottle well before you pour the sauce over the rice.
+The glass restorer polished the frame until it looked brand new.
+Gloss paint shows every mark, so sand the surface before you start.
+We need to restore the backup before the store opens tomorrow.
+The sea was calm, so we could see the lighthouse from the shore.
+Sea levels are rising faster along this coast than anywhere nearby.
+She sat on the sand and watched the seals swim past the rocks.
+The seller shipped the shelves in a single sealed crate.
+Six ships sailed south while the seventh stayed in the shallow bay.
+Open the terminal and run the tests before you commit anything.
+Create a new branch from main and push it to the remote.
+The function returns an empty list when the input file is missing.
+Please rename this variable so its purpose is obvious to the reader.
+Install the dependencies with pixi and then start the training script.
+The model overfits after three epochs, so lower the learning rate.
+Add a unit test that covers the case where the token is expired.
+Read the config file and print every key that has no value.
+The build failed because the import path points to the wrong module.
+Revert the last commit and explain what went wrong in the message.
+Write a Python script that converts the audio files to sixteen kilohertz.
+Check the GPU memory before loading a larger batch size.
+Refactor this class into two smaller functions with clear names.
+The word error rate dropped from seven percent to five percent.
+Search the repository for every place that calls this method.
+Upload the new session to the dataset and update the read me.
+Fine-tune the base model on all sessions and keep the best checkpoint.
+Explain what this regular expression matches, step by step.
+The server returns a four oh four error when the route is missing.
+Merge the pull request once the reviewer approves the changes.
+Add type hints to the public functions in this module.
+Why does this loop run twice when the list has only one item?
+Cache the result so the second request does not hit the database.
+Run the linter and fix every warning it reports in the source folder.
+Show me the difference between the staging branch and main.
+The tokenizer files were missing from the model repository.
+Set the random seed so the experiment can be reproduced exactly.
+Parse the JSON response and log any field that is null.
+Move the constants into a shared module and import them from there.
+The container exits immediately because the entry point is wrong.
+Summarize the changes in this file in three short bullet points.
+Load the parquet file and count the rows in each session.
+Replace the nested loops with a single dictionary lookup.
+The hold-out set must stay fixed when new data is added.
+Write the output to a temporary folder and delete it afterwards.
+Which commit introduced the regression in the evaluation script?
+Increase the timeout to thirty seconds and retry the request once.
+Plot the training loss and the validation loss on the same chart.
+Use a virtual environment so the packages do not clash.
+The feature extractor expects mono audio at sixteen thousand hertz.
+Delete the unused imports and sort the remaining ones alphabetically.
+Add a command-line flag that skips the upload step.
+Print the shape of the tensor before and after the reshape.
+The script should resume from where it stopped instead of starting over.
+Compare the new checkpoint against the published model on the same clips.
+Clone the repository, check out the release tag and build it.
+Document the function with one sentence and an example call.
+The decoder repeats the last phrase when the audio ends abruptly.
+Freeze the encoder and train only the decoder for one epoch.
+Convert the notebook into a script that runs from the command line.
+Handle the exception and return a clear message to the user.
+Push the image to the registry and restart the service.
+How much disk space does the cache folder use right now?
+Split the long function at the point where it starts writing files.
+The API key must never appear in the logs or the commit history.
+Schedule the job to run every Saturday at eight in the morning.
+Normalize the text to lower case before computing the score.
+Open the settings file and switch the voice mode to hold.
+Stop the process, clear the queue and start the worker again.
+Give me a short plan first, and wait before you edit any code.
+The meeting starts at a quarter past nine on Tuesday the fourteenth.
+My flight leaves at eleven forty and lands just after three.
+There were two hundred and fifty people at the conference last year.
+She was born on the third of March, nineteen ninety-two.
+The recipe needs three eggs, two cups of flour and a pinch of salt.
+Could you remind me to call the dentist tomorrow afternoon?
+Where did you put the charger for the laptop?
+How long does it take to drive from Singapore to Kuala Lumpur?
+The museum opens at ten and closes at half past five.
+Priya and Daniel are planning a trip to New Zealand in February.
+Our neighbour grows tomatoes, chillies and basil on her balcony.
+I usually walk to the office when the weather is cool.
+The rent went up by eight percent at the start of the year.
+Would you prefer tea or coffee after dinner?
+He has lived in Mumbai, London and Toronto over the past decade.
+The bridge was closed for repairs for nearly eighteen months.
+Please turn down the music; the baby is finally asleep.
+What time does the pharmacy on the main road close?
+Twelve students passed the exam and four will take it again.
+The package should arrive between Wednesday and Friday next week.
+I forgot my umbrella, and of course it started to pour.
+Her grandmother taught her to knit when she was only seven.
+The temperature dropped below zero for the first time this winter.
+Let's order pizza tonight and cook something proper tomorrow.
+The library keeps old newspapers on the second floor.
+Whose jacket is hanging on the back of that chair?
+They painted the bedroom a pale yellow and the hallway white.
+The bus to the airport runs every twenty minutes until midnight.
+Ahmed finished the marathon in just under four hours.
+I have never seen the river this high in the middle of summer.
+The phone rang twice and then went straight to voicemail.
+Take the second exit at the roundabout and follow the signs.
+Our team won the quiz by a single point.
+The film was longer than I expected, but I enjoyed every minute.
+Do you know whether the bank is open on Saturday mornings?
+He paid forty-five dollars for the book and ten for delivery.
+The children built a den out of blankets and kitchen chairs.
+Thursday is the only day this week when I am free for lunch.
+The garden looks its best in late April, just after the rain.
+Sofia plays the violin and her brother plays the drums.
+I need to renew my passport before the end of October.
+The lift is out of order, so we have to take the stairs.
+Which of these three photographs do you like the most?
+A thick fog covered the valley until the middle of the morning.
+The price of vegetables has doubled since the beginning of June.
+We watched the fireworks from the roof of the car park.
+Please write your name and phone number at the top of the page.
+The dog barked at the postman and then hid under the table.
+I'll send you the photographs as soon as I get home.
+The stadium holds sixty thousand people and was almost full.
+Mr. Tanaka teaches chemistry at the school near the harbour.
+Why is the kitchen window open when the heating is on?
+The last train leaves at ten fifty, so we cannot stay late.
+She ordered a bowl of noodle soup and a pot of green tea.
+The first chapter is slow, but the story improves quickly after that.
+My brother is taller than me, although he is two years younger.
+The clock in the hall is always about five minutes fast.
+It took the plumber less than an hour to fix the leak.
+Nobody expected the small bakery to win the national award.
+Thank you for waiting; the doctor will see you in a moment.
