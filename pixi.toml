@@ -1,0 +1,27 @@
+[workspace]
+name = "my_asr"
+channels = ["conda-forge"]
+platforms = ["win-64"]
+
+[dependencies]
+python = "3.12.*"
+
+[pypi-dependencies]
+# RTX 50-series needs the CUDA 12.8 wheels (torch >= 2.7)
+torch = { version = ">=2.7", index = "https://download.pytorch.org/whl/cu128" }
+transformers = "*"
+accelerate = "*"
+huggingface_hub = "*"
+pyarrow = "*"
+jiwer = "*"
+soundfile = "*"
+sounddevice = "*"
+keyboard = "*"
+numpy = "*"
+gradio = "*"
+
+[tasks]
+ui = "python -m asr.ui"                    # 1. record new sentences in the browser
+pipeline = "python -m asr.pipeline"        # 2-4. merge, train, gate, deploy (local only)
+release = "python -m asr.pipeline --push"  # same, plus 5-6. push data and model to the Hub
+dictate = "python -m asr.dictate"          # push-to-talk with the deployed model

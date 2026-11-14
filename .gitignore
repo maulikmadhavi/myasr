@@ -1,0 +1,6 @@
+.pixi/
+__pycache__/
+# audio and weights live on the Hugging Face Hub, not in git
+recordings/
+dataset/
+models/
