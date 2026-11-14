@@ -1,0 +1,115 @@
+{
+  "version": "v261114",
+  "date": "2026-11-14",
+  "clips": {
+    "train": 365,
+    "held_out": 35
+  },
+  "sessions": [
+    "session0001",
+    "session0002"
+  ],
+  "held_out_wer": {
+    "whisper-base": 0.0744,
+    "published": 0.0716,
+    "new": 0.0579
+  },
+  "held_out_errors": [
+    {
+      "id": "session0001_0035",
+      "ref": "I'm going to the grocery store to buy some fresh vegetables.",
+      "hyp": "I'm going to the gloss restore to buy some fresh vegetables.",
+      "wer": 0.182
+    },
+    {
+      "id": "session0001_0079",
+      "ref": "The train will arrive at platform number four in five minutes.",
+      "hyp": "The train will arrive at the platform number four in five minutes.",
+      "wer": 0.091
+    },
+    {
+      "id": "session0002_0020",
+      "ref": "I saw a ball roll into the parking lot during the lunch rush.",
+      "hyp": "I saw the ball roll into the parking lot during the lunch rush.",
+      "wer": 0.077
+    },
+    {
+      "id": "session0002_0041",
+      "ref": "What study shows that eating cells from fish improves energy?",
+      "hyp": "What study shows that eating sells from fish improves energy?",
+      "wer": 0.1
+    },
+    {
+      "id": "session0002_0062",
+      "ref": "Military-grade security keeps our funds protected.",
+      "hyp": "Military grade security keeps our fund protected.",
+      "wer": 0.143
+    },
+    {
+      "id": "session0002_0067",
+      "ref": "Blossoms on the trees look beautiful this morning.",
+      "hyp": "Blosoms on the trees look beautiful this morning.",
+      "wer": 0.125
+    },
+    {
+      "id": "session0002_0072",
+      "ref": "Christian and I both use the same email app for work.",
+      "hyp": "Kristen and I both use the same email app for work.",
+      "wer": 0.091
+    },
+    {
+      "id": "session0002_0087",
+      "ref": "The shell of the old oak tree is cracked against the summer wind.",
+      "hyp": "The sale of old oak tree is cracked against the summer wind.",
+      "wer": 0.154
+    },
+    {
+      "id": "session0002_0156",
+      "ref": "The sea level is rising, and it's affecting the coast.",
+      "hyp": "The sea level is rising, and it's effect the coast.",
+      "wer": 0.1
+    },
+    {
+      "id": "session0002_0184",
+      "ref": "The team completed a tough row during the morning workout on the campus lake.",
+      "hyp": "The team completed a tough row during the morning workout on the campus like us.",
+      "wer": 0.143
+    },
+    {
+      "id": "session0002_0201",
+      "ref": "Here's a fresh bagel with cream cheese and a hint of honey, perfect for breakfast.",
+      "hyp": "Here is a fresh bugle with cream cheese and a hint of honey, perfect for breakfast.",
+      "wer": 0.2
+    },
+    {
+      "id": "session0002_0234",
+      "ref": "Pakistan's network coverage improved after the new introduction to services.",
+      "hyp": "Pakistan's network coverage improved after new introduction to services.",
+      "wer": 0.1
+    },
+    {
+      "id": "session0002_0243",
+      "ref": "I need to improve my voice recording skills.",
+      "hyp": "I need to improve my world's recording skills.",
+      "wer": 0.125
+    },
+    {
+      "id": "session0002_0261",
+      "ref": "The team agreed on a new method for handling client requests.",
+      "hyp": "Team agreed on a new method for handling client requests.",
+      "wer": 0.091
+    },
+    {
+      "id": "session0002_0262",
+      "ref": "Can I get a shake with sugar and ice?",
+      "hyp": "Then I get a shake with sugar and ice.",
+      "wer": 0.111
+    },
+    {
+      "id": "session0002_0284",
+      "ref": "Germany sent a delegation to the summit.",
+      "hyp": "Samanis sent a delegation to the summit.",
+      "wer": 0.143
+    }
+  ]
+}
